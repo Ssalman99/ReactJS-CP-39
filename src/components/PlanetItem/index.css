@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-item {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.img {
+  width: 40%;
+  height: 40%;
+}
+
+.item-heading {
+  color: #f1f5f9;
+}
+
+.description {
+  color: #f8fafc;
+  text-align: center;
+}
